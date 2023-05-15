@@ -1,0 +1,10 @@
+Smith John 4 5 3
+Johnson Lisa 5 4 5
+Williams David 3 3 4
+Brown Emily 5 5 5
+Jones Michael 4 3 4
+Miller Jessica 5 2 5
+Davis Daniel 4 4 4
+Garcia Sophia 3 4 3
+Wilson Matthew 5 5 5
+Taylor Olivia 4 5 4
